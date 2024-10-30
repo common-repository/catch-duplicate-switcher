@@ -1,0 +1,369 @@
+# Copyright (C) 2018-2022 Catch Plugins
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Duplicate Switcher\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2024-04-16 23:31+0545\n"
+"PO-Revision-Date: 2016-12-12 09:23-0500\n"
+"Last-Translator: Sakin Shrestha <info@catchplugins.com>\n"
+"Language-Team: Catch Plugins <info@catchplugins.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_attr_e;esc_attr__;_nx;_x;"
+"esc_html_e;esc_html__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:120
+#: ../admin/class-catch-duplicate-switcher-admin.php:121
+msgid "Catch Duplicate/Switcher "
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:130
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:18
+msgid "Catch Duplicate/Switcher"
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:131
+#: ../admin/partials/dashboard-display.php:8
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:141
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:281
+#: ../admin/class-catch-duplicate-switcher-admin.php:294
+msgid "Duplicate This"
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:314
+msgid "Duplicate This as "
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:352
+msgid " Catch Post Type:"
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:385
+msgid "Type"
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:409
+msgid " Catch Post Type"
+msgstr ""
+
+#: ../admin/class-catch-duplicate-switcher-admin.php:452
+msgid "&mdash; No Change &mdash;"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:20
+msgid "Let you duplicate and switch page /post effortlessly."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:26
+msgid "Plugin Options Saved."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:35
+msgid "Dashboard"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:36
+msgid "Switcher Settings"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:37
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:84
+msgid "Features"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:45
+msgid "Catch Themes & Catch Plugins Tabs"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:50
+msgid ""
+"If you want to turn off Catch Themes & Catch Plugins tabs option in Add "
+"Themes and Add Plugins page, please uncheck the following option."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:55
+msgid "Turn On Catch Themes & Catch Plugin tabs"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:89
+#: ../admin/partials/dashboard-display.php:23
+msgid "Duplicate Page/Post Status"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:90
+msgid ""
+"Our new WordPress plugin for creating duplicate page/post and switching "
+"between them lets you choose the status of your duplicate page/post created."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:93
+#: ../admin/partials/dashboard-display.php:37
+msgid "Duplicate Suffix Name"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:94
+msgid ""
+"Catch Duplicate/Switcher provides Duplicate Suffix Name option. In the "
+"Duplicate Suffix Name section, you can enter a name for your duplicate "
+"copies of posts and pages. This helps you in identifying your duplicate "
+"pages and posts.  "
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:97
+#: ../admin/partials/dashboard-display.php:47
+msgid "Duplicate Page/Post Redirect"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:98
+msgid ""
+"Duplicate Page/Post Redirect options lets you choose whether you want to "
+"redirect to the duplicate page/post created or want the created duplicate "
+"post/page to be displayed in the list with the original ones. Select the "
+"redirect option ‘to list’ if you want your duplicate pages/posts to be shown "
+"in a list with the original ones. And if you want to directly head over to "
+"the created duplicate page/post, select the redirect option ‘To Page’."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:101
+msgid "Switcher Option"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:102
+msgid ""
+"The Switcher Option can be found in the second tab named ‘Switcher Settings’ "
+"in the plugin’s setting page. You have the option to enable the Switcher for "
+"page/post. Enabling this switcher will add a new switcher section in the "
+"Metabox each time to go to a post or a page. It allows you to switch between "
+"the content type—post or page. Switch your post to page or page to post as "
+"per your needs and requirements."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:105
+msgid "Compatible with all WordPress themes"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:106
+msgid ""
+"Gutenberg Compatibility is one of the major concerns nowadays for every "
+"plugin developer. Our new Catch Duplicate/Switcher plugin has been crafted "
+"in a way that supports all the WordPress themes. The plugin functions "
+"smoothly on any WordPress theme"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:109
+msgid "Light Weight"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:110
+msgid ""
+"Catch Duplicate/Switcher, a simple WordPress plugin to clone pages and posts "
+"is extremely lightweight. It means you will not have to worry about your "
+"website getting slower because of the plugin."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:113
+msgid "Responsive Design"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:114
+msgid ""
+"Our new WordPress plugin comes with a responsive design, therefore, there is "
+"no need to strain about the plugin breaking your website."
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:118
+msgid "Incredible Support"
+msgstr ""
+
+#: ../admin/partials/catch-duplicate-switcher-admin-display.php:119
+msgid ""
+"Catch Duplicate/Switcher comes with Incredible Support. For creating "
+"duplicate posts/pages and switching between content types, our plugin "
+"documentation answers most questions about using the plugin.  If you’re "
+"still having difficulties, you can post it in our Support Forum. All in all, "
+"Catch Duplicate/Switcher is a simple yet feature-rich two-in-one plugin that "
+"empowers you to clone posts/pages and switch between them. The plugin is "
+"extremely easy to use and provides everything you expect from a decent "
+"cloning posts/pages WordPress plugin."
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:27
+msgid "Draft"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:28
+msgid "Publish"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:29
+msgid "Private"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:30
+msgid "Pending"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:41
+msgid "Enter the duplicate page or post suffix name."
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:51
+msgid "To List"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:52
+msgid "To Page"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:55
+msgid "duplicate post/page redirect to_page."
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:61
+msgid "Reset Options"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:64
+msgid "Check to reset"
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:66
+msgid "Caution: Reset all settings to default."
+msgstr ""
+
+#: ../admin/partials/dashboard-display.php:73 ../admin/partials/switcher.php:31
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/partials/footer.php:4
+msgid "Catch Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:9
+msgid "View Themes"
+msgstr ""
+
+#: ../admin/partials/footer.php:10
+msgid "View Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:11
+msgid "Support"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:3
+msgid "Recommendations"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:8
+msgid "Premium Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:9
+msgid ""
+"Check out our simple, clean and responsive Premium WordPress Themes that "
+"come with an array of crucial features with a superior functionality."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:9
+msgid "Check our premium themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:15
+msgid "Free Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:16
+msgid ""
+"Check out our collection of Free WordPress Themes that are clean, simple and "
+"feature-rich."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:16
+msgid "Check our free themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:22
+msgid "Premium Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:23
+msgid ""
+"Check out our secured Premium WordPress Plugins to enhance and add extra "
+"functionalities to your website. An exceptional way to get the most out of "
+"WordPress!"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:23
+msgid "Check our premium plugins."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:31
+msgid "Free Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:32
+msgid ""
+"Check out our Free WordPress Plugins and get the taste of our service "
+"without affecting your wallet."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:33
+msgid "check our free plugins."
+msgstr ""
+
+#: ../admin/partials/switcher.php:8
+msgid " Switcher Settings"
+msgstr ""
+
+#: ../admin/partials/switcher.php:23
+msgid "Enable Switcher for page/post"
+msgstr ""
+
+#: ../admin/partials/switcher.php:26
+msgid "Enable the Switcher "
+msgstr ""
+
+#: ../includes/CatchThemesThemePlugin.php:154
+msgid "Themes by CatchThemes"
+msgstr ""
+
+#: ../includes/CatchThemesThemePlugin.php:434
+msgctxt "Plugin Installer"
+msgid "Catch Plugins"
+msgstr ""
+
+#: ../includes/CatchThemesThemePlugin.php:473
+#, php-format
+msgid ""
+"You can use any of our free plugins or premium plugins from <a href=\"%s\" "
+"target=\"_blank\">Catch Plugins</a>"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:59
+msgid "Invalid Nonce"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:62
+msgid "Permission denied!"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:75
+msgid "Connection Error. Please try again."
+msgstr ""

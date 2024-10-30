@@ -1,0 +1,14 @@
+#pts_post_type {
+    padding: 2px;
+    line-height: 28px;
+    height: 28px;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.misc-pub-section.misc-pub-section-last.post-type-switcher label {
+
+    vertical-align: baseline;
+    font-weight: 600;
+
+}
